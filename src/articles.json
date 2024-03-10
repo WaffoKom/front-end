@@ -1,0 +1,63 @@
+{
+    "themes" :[{
+        "id" :1,
+        "name": "React"
+    },
+{
+    "id":2,
+    "name":"MANAGEMENT"
+},
+{
+    "id": 3,
+    "name":"API"
+},
+{
+    "id":4,
+    "name":"Databases"
+}]
+,
+ "articles" :[{
+    "id" :1,
+    "img" :"https://www.course-api.com/images/people/person-1.jpeg" ,
+    "tags" : "React",
+    "title" : "Mouf ta maman",
+    "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit."  
+}, 
+{
+    "id" :2,
+    "img" :"https://www.course-api.com/images/people/person-2.jpeg" ,
+    "tags" : "MANAGEMENT",
+    "title" : "Mouf ta maman",
+    "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit."
+},
+{
+    "id" :3,
+    "img" :"https://www.course-api.com/images/people/person-3.jpeg" ,
+    "tags" : "API",
+    "title" : "Mouf ta maman",
+    "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit"
+},
+{
+    "id" :4,
+    "img" :"https://www.course-api.com/images/people/person-4.jpeg" ,
+    "tags" : "Databases",
+    "title" : "Ce n'est pas juste react",
+    "content" : "Lorem ipsum dolor sit   amet consectetur adipisicing elit."
+},
+{
+    "id" :5,
+    "img" :"https://www.course-api.com/images/people/person-5.jpeg" ,
+    "tags" : "Databases",
+    "title" : "Mouf ta maman",
+    "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit"
+},
+{
+    "id" :6,
+    "img" :"https://www.course-api.com/images/people/person-4.jpeg" ,
+    "tags" : "React",
+    "title" : "Mouf ta maman",
+    "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit"
+}
+] 
+
+}
